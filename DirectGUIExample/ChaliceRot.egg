@@ -1,0 +1,635 @@
+<Comment> {
+  "egg-texture-cards -o ChaliceRot.egg -fps 25 ChaliceRot0.png ChaliceRot1.png ChaliceRot10.png ChaliceRot11.png ChaliceRot12.png ChaliceRot13.png ChaliceRot14.png ChaliceRot15.png ChaliceRot16.png ChaliceRot17.png ChaliceRot18.png ChaliceRot19.png ChaliceRot2.png ChaliceRot20.png ChaliceRot21.png ChaliceRot22.png ChaliceRot23.png ChaliceRot24.png ChaliceRot25.png ChaliceRot26.png ChaliceRot27.png ChaliceRot28.png ChaliceRot29.png ChaliceRot3.png ChaliceRot30.png ChaliceRot31.png ChaliceRot32.png ChaliceRot33.png ChaliceRot34.png ChaliceRot35.png ChaliceRot36.png ChaliceRot37.png ChaliceRot38.png ChaliceRot39.png ChaliceRot4.png ChaliceRot40.png ChaliceRot41.png ChaliceRot42.png ChaliceRot43.png ChaliceRot44.png ChaliceRot45.png ChaliceRot46.png ChaliceRot47.png ChaliceRot48.png ChaliceRot49.png ChaliceRot5.png ChaliceRot50.png ChaliceRot51.png ChaliceRot52.png ChaliceRot53.png ChaliceRot54.png ChaliceRot55.png ChaliceRot56.png ChaliceRot57.png ChaliceRot58.png ChaliceRot59.png ChaliceRot6.png ChaliceRot60.png ChaliceRot7.png ChaliceRot8.png ChaliceRot9.png"
+}
+<Texture> ChaliceRot9 {
+  ChaliceRot9.png
+}
+<Texture> ChaliceRot8 {
+  ChaliceRot8.png
+}
+<Texture> ChaliceRot7 {
+  ChaliceRot7.png
+}
+<Texture> ChaliceRot60 {
+  ChaliceRot60.png
+}
+<Texture> ChaliceRot6 {
+  ChaliceRot6.png
+}
+<Texture> ChaliceRot59 {
+  ChaliceRot59.png
+}
+<Texture> ChaliceRot58 {
+  ChaliceRot58.png
+}
+<Texture> ChaliceRot57 {
+  ChaliceRot57.png
+}
+<Texture> ChaliceRot56 {
+  ChaliceRot56.png
+}
+<Texture> ChaliceRot55 {
+  ChaliceRot55.png
+}
+<Texture> ChaliceRot54 {
+  ChaliceRot54.png
+}
+<Texture> ChaliceRot53 {
+  ChaliceRot53.png
+}
+<Texture> ChaliceRot52 {
+  ChaliceRot52.png
+}
+<Texture> ChaliceRot51 {
+  ChaliceRot51.png
+}
+<Texture> ChaliceRot50 {
+  ChaliceRot50.png
+}
+<Texture> ChaliceRot5 {
+  ChaliceRot5.png
+}
+<Texture> ChaliceRot49 {
+  ChaliceRot49.png
+}
+<Texture> ChaliceRot48 {
+  ChaliceRot48.png
+}
+<Texture> ChaliceRot47 {
+  ChaliceRot47.png
+}
+<Texture> ChaliceRot46 {
+  ChaliceRot46.png
+}
+<Texture> ChaliceRot45 {
+  ChaliceRot45.png
+}
+<Texture> ChaliceRot44 {
+  ChaliceRot44.png
+}
+<Texture> ChaliceRot43 {
+  ChaliceRot43.png
+}
+<Texture> ChaliceRot42 {
+  ChaliceRot42.png
+}
+<Texture> ChaliceRot41 {
+  ChaliceRot41.png
+}
+<Texture> ChaliceRot40 {
+  ChaliceRot40.png
+}
+<Texture> ChaliceRot4 {
+  ChaliceRot4.png
+}
+<Texture> ChaliceRot39 {
+  ChaliceRot39.png
+}
+<Texture> ChaliceRot38 {
+  ChaliceRot38.png
+}
+<Texture> ChaliceRot37 {
+  ChaliceRot37.png
+}
+<Texture> ChaliceRot36 {
+  ChaliceRot36.png
+}
+<Texture> ChaliceRot35 {
+  ChaliceRot35.png
+}
+<Texture> ChaliceRot34 {
+  ChaliceRot34.png
+}
+<Texture> ChaliceRot33 {
+  ChaliceRot33.png
+}
+<Texture> ChaliceRot32 {
+  ChaliceRot32.png
+}
+<Texture> ChaliceRot31 {
+  ChaliceRot31.png
+}
+<Texture> ChaliceRot30 {
+  ChaliceRot30.png
+}
+<Texture> ChaliceRot3 {
+  ChaliceRot3.png
+}
+<Texture> ChaliceRot29 {
+  ChaliceRot29.png
+}
+<Texture> ChaliceRot28 {
+  ChaliceRot28.png
+}
+<Texture> ChaliceRot27 {
+  ChaliceRot27.png
+}
+<Texture> ChaliceRot26 {
+  ChaliceRot26.png
+}
+<Texture> ChaliceRot25 {
+  ChaliceRot25.png
+}
+<Texture> ChaliceRot24 {
+  ChaliceRot24.png
+}
+<Texture> ChaliceRot23 {
+  ChaliceRot23.png
+}
+<Texture> ChaliceRot22 {
+  ChaliceRot22.png
+}
+<Texture> ChaliceRot21 {
+  ChaliceRot21.png
+}
+<Texture> ChaliceRot20 {
+  ChaliceRot20.png
+}
+<Texture> ChaliceRot2 {
+  ChaliceRot2.png
+}
+<Texture> ChaliceRot19 {
+  ChaliceRot19.png
+}
+<Texture> ChaliceRot18 {
+  ChaliceRot18.png
+}
+<Texture> ChaliceRot17 {
+  ChaliceRot17.png
+}
+<Texture> ChaliceRot16 {
+  ChaliceRot16.png
+}
+<Texture> ChaliceRot15 {
+  ChaliceRot15.png
+}
+<Texture> ChaliceRot14 {
+  ChaliceRot14.png
+}
+<Texture> ChaliceRot13 {
+  ChaliceRot13.png
+}
+<Texture> ChaliceRot12 {
+  ChaliceRot12.png
+}
+<Texture> ChaliceRot11 {
+  ChaliceRot11.png
+}
+<Texture> ChaliceRot10 {
+  ChaliceRot10.png
+}
+<Texture> ChaliceRot1 {
+  ChaliceRot1.png
+}
+<Texture> ChaliceRot0 {
+  ChaliceRot0.png
+}
+<Group> {
+  <Switch> { 1 }
+  <Scalar> fps { 25 }
+  <VertexPool> vpool {
+    <Vertex> 0 {
+      -0.5 0.5 0
+      <UV> { 0 1 }
+    }
+    <Vertex> 1 {
+      -0.5 -0.5 0
+      <UV> { 0 0 }
+    }
+    <Vertex> 2 {
+      0.5 -0.5 0
+      <UV> { 1 0 }
+    }
+    <Vertex> 3 {
+      0.5 0.5 0
+      <UV> { 1 1 }
+    }
+  }
+  <Group> ChaliceRot0 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot0 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot1 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot1 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot10 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot10 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot11 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot11 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot12 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot12 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot13 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot13 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot14 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot14 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot15 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot15 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot16 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot16 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot17 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot17 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot18 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot18 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot19 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot19 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot2 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot2 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot20 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot20 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot21 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot21 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot22 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot22 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot23 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot23 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot24 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot24 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot25 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot25 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot26 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot26 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot27 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot27 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot28 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot28 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot29 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot29 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot3 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot3 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot30 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot30 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot31 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot31 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot32 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot32 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot33 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot33 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot34 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot34 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot35 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot35 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot36 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot36 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot37 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot37 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot38 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot38 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot39 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot39 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot4 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot4 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot40 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot40 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot41 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot41 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot42 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot42 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot43 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot43 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot44 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot44 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot45 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot45 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot46 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot46 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot47 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot47 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot48 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot48 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot49 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot49 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot5 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot5 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot50 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot50 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot51 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot51 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot52 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot52 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot53 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot53 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot54 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot54 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot55 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot55 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot56 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot56 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot57 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot57 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot58 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot58 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot59 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot59 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot6 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot6 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot60 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot60 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot7 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot7 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot8 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot8 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+  <Group> ChaliceRot9 {
+    <Polygon> {
+      <RGBA> { 1 1 1 1 }
+      <TRef> { ChaliceRot9 }
+      <VertexRef> { 0 1 2 3 <Ref> { vpool } }
+    }
+  }
+}
